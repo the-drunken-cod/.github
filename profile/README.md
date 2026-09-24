@@ -14,13 +14,13 @@
 - **[Mob Talismans](https://github.com/the-drunken-cod/Mob-Mementos):** Accessories against annoying mob mechanics like Infested Stones, Drowneds, Enderman and Creeper Griefing and more.
 - **[MultiLoader-Template](https://github.com/the-drunken-cod/MultiLoader-Template):** What we use as the base for our multi-platform mods (set up for Fabric & Neoforge 1.21.1).
 
-<br><br>
+<br>
 
 ### Our Minecraft Datapacks:
 - **[Sable: Fragile Snow](https://github.com/the-drunken-cod/Sable-Fragile-Snow):** Makes Snow and Snow Layers breakable by Sable / Create Aeronautics, to leave tracks behind when driving through snow biomes.
 - **[Sable: Over-Pressured](https://github.com/the-drunken-cod/Sable-Over-Pressured):** Adds Sable / Create Aeronautics air pressure above the Nether roof, similar to how it is in The End.
 
-<br><br>
+<br>
 
 ### Modpacks:
 You may use any of our mods or datapacks in your modpack, public or private.  
