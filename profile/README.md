@@ -30,13 +30,13 @@ We would appreciate a quick shout and link to your modpack on any of our GitHub 
 <br><br><br>
 
 ### GenAI Usage:
-We make use of [Generative AI](https://en.wikipedia.org/wiki/Generative_AI) to help speed up repetitive and easy but cumbersome development processes.  
-In order to do this responsibly, we follow these rules:
-- Never fully rely on the AI. Only use it to speed up tedious processes where creativity and the human touch aren't paramount.
-- Treat all outputs as if they were randomly submitted contributions from an unknown user. Review every changed line.
-- Keep the inherent biases in mind and realize when the LLM turns into a Sycophant.
-- Investigate the model's origin to find and use those that are the most responsible.
-- Never feed any privacy-sensitive data into the LLM. Take precautions to make sure this can't happen accidentally.
-- Never brute-force a solution using AI. Take a chill pill, go to bed, check it out again in the morning.
-
-Note: all of our assets like images, models, textures and all the detail work will always remain fully human-made.
+In some of our projects we make use of [Generative AI](https://en.wikipedia.org/wiki/Generative_AI). This is mostly to help speed up repetitive and easy but cumbersome development processes, as well as fill gaps in knowledge.  
+All of our assets (images, textures, models), as well as all the detail work will always remain fully human-made.  
+  
+In order to use GenAI responsibly, we follow these basic guidelines:
+- **Usage:** Never fully rely on the AI. Only use it to speed up tedious processes where creativity and the human touch aren't paramount.
+- **Review:** Treat all outputs as if they were randomly submitted contributions from an unknown user. Review every changed line.
+- **Biases:** Keep the inherent biases in mind and realize when the LLM turns into a Sycophant.
+- **Model Source:** Investigate the model's origin to find and use those that are the most responsible.
+- **Privacy:** Never feed any privacy-sensitive data into the LLM. Take precautions to make sure this can't happen accidentally.
+- **Over-Reliance:** Never brute-force a solution using AI. Take a chill pill, go to bed, check it out again in the morning. The role of AI should always remain as that of the *helper*, not the *lead developer.*
