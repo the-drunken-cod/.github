@@ -10,6 +10,7 @@
 
 ### Our Minecraft Mods:
 - **[Create: Strict Links](https://github.com/the-drunken-cod/Create-Strict-Links):** Makes the Create Mod Redstone Links respect data components (NBT) for finer frequency control and even password-protected frequencies.
+- **[Create: Nerfed Drills](https://github.com/the-drunken-cod/Create-Nerfed-Drills):** Nerfs Mechanical Drills on Contraptions so mining doesn't become trivial with Create installed.
 - **[Symbols'n'Signs](https://github.com/the-drunken-cod/Symbols-n-Signs):** Adds meaningful symbol items and road signs and ways to display them. Also great for making Create Redstone Link frequencies more self-explanatory.
 - **[Mob Talismans](https://github.com/the-drunken-cod/Mob-Mementos):** Accessories against annoying mob mechanics like Infested Stones, Drowneds, Enderman and Creeper Griefing and more.
 - **[MultiLoader-Template](https://github.com/the-drunken-cod/MultiLoader-Template):** What we use as the base for our multi-platform mods (set up for Fabric & Neoforge 1.21.1).
